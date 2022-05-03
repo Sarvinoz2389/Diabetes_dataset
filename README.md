@@ -1,2 +1,2 @@
-# Nomi
+Diabetes Prediction
 asasas
